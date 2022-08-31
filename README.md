@@ -1,8 +1,7 @@
 
-=======
-# PRG208_Android_Programming_Exam
+# PRG208 - Android Programming Exam
 
-README Filen
+Karakter: A
 
 
 
